@@ -15,3 +15,4 @@ The pymood package analyzes emotions based on text input and can also interact w
     
 + **Profanity Filtering**
 
+## Installation
