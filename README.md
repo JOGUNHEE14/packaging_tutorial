@@ -2,7 +2,6 @@
 oss_project oss_project is a Python project that includes the pymood package. 
 The pymood package analyzes emotions based on text input and can also interact with chatbots.
 ## Features
-
 + **Text-to-Emoji Conversion**
   + For Korean input, it returns an emoji that matches the sentiment.
   + Example: "기분이 좋아요!" → 😊
