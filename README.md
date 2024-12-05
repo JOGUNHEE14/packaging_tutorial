@@ -1,7 +1,7 @@
 # OSS_PROJECT
-----
+
 ## Features
-----
+
 + Text-to-Emoji Conversion
   For Korean input, it returns an emoji that matches the sentiment.
   Example: "기분이 좋아요!" → 😊
