@@ -3,6 +3,7 @@
 ## Features
 
 ###Text-to-Emoji Conversion 
+
 For Korean input, it returns an emoji that matches the sentiment.
 Example: "기분이 좋아요!" → 😊
 For English input, it also returns an emoji that represents the sentiment.
